@@ -1,0 +1,112 @@
+{
+    "family_members": [
+      {
+        "relation": "mother",
+        "occupation": "creative, spontaneous, pianist",
+        "relationship_quality": "positive",
+        "notes": "Source d'inspiration créative. Sa spontanéité influence ma créativité. Nous partageons un lien émotionnel fort, et elle est protectrice et sacrificielle envers mon frère et moi.",
+        "dynamic_influence": {
+          "creativity": "high",
+          "spontaneity": "high",
+          "emotional_support": "very_high"
+        }
+      },
+      {
+        "relation": "father",
+        "occupation": "engineer",
+        "relationship_quality": "positive and negative",
+        "notes": "Notre relation est marquée par une forte dynamique familiale. Mon père est à la fois une figure d'autorité exigeante, mais également une source d'encouragement pour ma réussite professionnelle. Il a un caractère explosif, ce qui crée parfois des tensions, mais il m'a transmis une éthique de travail solide.",
+        "dynamic_influence": {
+          "discipline": "very_high",
+          "work_ethic": "very_high",
+          "tension": "moderate"
+        }
+      },
+      {
+        "relation": "brother",
+        "name": "christophe",
+        "occupation": "freelance",
+        "relationship_quality": "fusionnal",
+        "notes": "Notre relation est extrêmement forte et basée sur la compréhension mutuelle. Nous partageons des intérêts communs, et Christophe est souvent une source de soutien, notamment dans les moments de doute.",
+        "dynamic_influence": {
+          "support": "very_high",
+          "shared_interests": "high",
+          "emotional_closeness": "very_high"
+        }
+      },
+      {
+        "relation": "grandmother",
+        "relationship_quality": "very positive",
+        "notes": "Ma grand-mère est une figure aimante et protectrice dans ma vie. Elle m'a inculqué des valeurs de simplicité, d'élégance, de coquetterie, et de résilience féminine, ce qui influence mes choix et mon attitude face aux défis.",
+        "dynamic_influence": {
+          "simplicity": "high",
+          "elegance": "moderate",
+          "resilience": "very_high"
+        }
+      },
+      {
+        "relation": "pet and child",
+        "name": "collins",
+        "age": "10 years",
+        "occupation": "being a cat",
+        "relationship_quality": "positive and very emotional",
+        "notes": "Collins est bien plus qu'un animal de compagnie, il représente pour moi une présence réconfortante et stable. Il m'aide à me recentrer émotionnellement dans les moments de stress.",
+        "dynamic_influence": {
+          "emotional_stability": "very_high",
+          "comfort": "very_high",
+          "stress_relief": "high"
+        }
+      }
+    ],
+    "upbringing_environment": {
+      "location": "Bordeaux and Marmande",
+      "socioeconomic_status": "middle and upper",
+      "cultural_values": {
+        "art_and_creativity": "high",
+        "independence": "very_high",
+        "hard_work": "very_high",
+        "cultural_openness": "high"
+      },
+      "family_traditions": [
+        {
+          "tradition": "Les réunions familiales autour des repas",
+          "importance": "high"
+        },
+        {
+          "tradition": "Encouragement à poursuivre des passions artistiques",
+          "importance": "very_high"
+        },
+        {
+          "tradition": "Célébration des moments simples de la vie",
+          "importance": "high"
+        }
+      ],
+      "mentors": [
+        {
+          "name": "Renaud",
+          "relation": "teacher",
+          "influence_area": "Il a eu un impact profond sur ma carrière et mon développement personnel, m'aidant à structurer mes projets et à trouver ma voie.",
+          "years_of_mentorship": "3 years",
+          "notes": "Renaud m'a aidée à consolider ma vision professionnelle et à comprendre comment naviguer entre créativité et productivité.",
+          "dynamic_influence": {
+            "career_guidance": "high",
+            "personal_development": "very_high",
+            "strategic_thinking": "moderate"
+          }
+        }
+      ]
+    },
+    "dynamic_influences_summary": {
+      "strongest_influences": [
+        "creativity_from_mother",
+        "discipline_from_father",
+        "support_from_brother",
+        "emotional_stability_from_collins"
+      ],
+      "areas_of_internal_conflict": [
+        "creativity_vs_discipline",
+        "independence_vs_support",
+        "emotional_closeness_vs_personal_space"
+      ]
+    }
+  }

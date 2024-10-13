@@ -1,0 +1,219 @@
+{
+    "personal_profile": {
+      "core_values": {
+        "transparency": true,
+        "resilience": true,
+        "solidarity": true,
+        "innovation": true,
+        "common_good": {
+          "importance": true,
+          "nuance": "Balance entre les intérêts individuels et collectifs, particulièrement en milieu rural."
+        }
+      },
+      "motivations": {
+        "passion_for_projects": true,
+        "community_impact": {
+          "focus": true,
+          "nuance": "Je veux inspirer les autres à entreprendre, mais de manière adaptée aux réalités rurales."
+        },
+        "autonomy": true,
+        "professional_network": {
+          "priority": true,
+          "nuance": "Créer un réseau fort localement tout en explorant des opportunités nationales."
+        },
+        "national_recognition": {
+          "aspiration": true,
+          "nuance": "Reconnaissance au niveau national, mais toujours ancrée dans le territoire local."
+        }
+      },
+      "challenges_faced": {
+        "rural_opportunities": true,
+        "innovation_growth": {
+          "importance": true,
+          "nuance": "L'innovation est une force pour moderniser les processus, sans sacrifier les traditions locales."
+        },
+        "professional_isolation": {
+          "feeling": true,
+          "nuance": "L'isolement peut être stimulant pour la créativité, mais nécessite un réseau solide."
+        }
+      },
+      "skills_and_expertise": [
+        {
+          "name": "Marketing Digital",
+          "nuance": "Avec une approche adaptée aux réalités du marché rural."
+        },
+        "Data Analytics",
+        "AI",
+        "KPI Analytics",
+        {
+          "name": "Brand Design",
+          "nuance": "Créer des marques qui racontent des histoires fortes et authentiques, ancrées dans le territoire."
+        },
+        {
+          "name": "Storytelling",
+          "nuance": "Utilisé pour promouvoir des récits qui résonnent localement, mais peuvent avoir un impact global."
+        }
+      ],
+      "pride_aspects": [
+        "Autonomy",
+        "Local Collaborations",
+        {
+          "name": "Social Innovation Projects",
+          "nuance": "Créer des initiatives qui allient innovation et respect des spécificités locales."
+        },
+        {
+          "name": "Adaptability",
+          "nuance": "Capacité à innover sans écraser les traditions."
+        }
+      ],
+      "problem_solving_approach": {
+        "data_analysis": true,
+        "creative_solutions": true,
+        "trust_in_instinct": {
+          "importance": true,
+          "nuance": "Un équilibre entre analyse rationnelle et écoute de mon instinct pour savoir quand pivoter."
+        }
+      },
+      "social_impact": {
+        "economic_dynamism_local": true,
+        "rural_inspiration": {
+          "importance": true,
+          "nuance": "Inspirer une nouvelle génération à entreprendre en milieu rural avec une approche moderne."
+        }
+      },
+      "long_term_vision": {
+        "local_reference": true,
+        "social_change_leader": {
+          "importance": true,
+          "nuance": "Être perçue comme une force de changement social tout en restant connectée à mon territoire."
+        },
+        "innovative_business_model": {
+          "focus": true,
+          "nuance": "Utiliser l'innovation comme levier pour transformer l'économie locale, sans la dénaturer."
+        }
+      },
+      "preferred_technologies": {
+        "project_management_tools": {
+          "tools": ["Trello", "Notion"],
+          "nuance": "Pour gérer des projets complexes tout en restant flexible."
+        },
+        "data_processing_tools": {
+          "tools": ["Excel", "Google Sheets"],
+          "nuance": "Analyser les données pour optimiser les processus locaux, avec un regard stratégique."
+        },
+        "digital_communication_tools": {
+          "tools": ["Canva", "Social Media"],
+          "nuance": "Créer une communication visuelle et narrative adaptée aux attentes locales et nationales."
+        }
+      },
+      "lessons_learned": [
+        "Failure is a lesson",
+        {
+          "lesson": "Trust your instincts",
+          "nuance": "Apprendre à écouter son intuition tout en gardant un pied dans l'analyse concrète."
+        },
+        {
+          "lesson": "Anticipate market trends",
+          "nuance": "Ne jamais se reposer sur ses acquis, anticiper les mouvements du marché pour rester compétitive."
+        },
+        {
+          "lesson": "Work-life balance is essential",
+          "nuance": "Un équilibre entre l'engagement professionnel et le bien-être personnel est crucial pour durer."
+        }
+      ]
+    },
+    "local_context": {
+      "entrepreneurial_role": {
+        "community_network_connector": {
+          "focus": true,
+          "nuance": "Créer des connexions entre acteurs locaux tout en intégrant des influences extérieures."
+        },
+        "inspirational_rural_entrepreneur": {
+          "focus": true,
+          "nuance": "Montrer qu'on peut innover tout en respectant l'essence de son environnement rural."
+        },
+        "digital_innovator": {
+          "focus": true,
+          "nuance": "Utiliser le digital pour moderniser les processus en zone rurale, avec un regard stratégique."
+        },
+        "cultural_mediator": {
+          "focus": true,
+          "nuance": "Servir de lien entre tradition et modernité, et entre différentes parties prenantes locales."
+        }
+      },
+      "cultural_evolution_needs": {
+        "collaborative_spaces": true,
+        "networking_events": true,
+        "youth_programming_15_29": {
+          "focus": true,
+          "nuance": "Adapter les offres culturelles aux jeunes pour les garder connectés à leur territoire."
+        },
+        "marketing_strategies_for_rural_context": {
+          "importance": true,
+          "nuance": "Stratégies marketing spécifiques aux territoires ruraux, où l'échelle et les dynamiques sont différentes."
+        }
+      }
+    },
+    "advice_to_share": {
+      "for_new_entrepreneurs": {
+        "take_calculated_risks": {
+          "importance": true,
+          "nuance": "Oser prendre des risques mais en gardant un ancrage réaliste et une vision à long terme."
+        },
+        "finance_management": true,
+        "be_patient": true,
+        "high_standards": {
+          "importance": true,
+          "nuance": "Ne pas accepter de compromis qui affaibliraient la qualité, même si cela prend plus de temps."
+        },
+        "no_compromise_on_key_aspects": {
+          "importance": true,
+          "nuance": "Certains compromis peuvent tuer l'innovation ou la qualité, mais sont parfois nécessaires dans la modernisation des processus."
+        }
+      }
+    },
+    "methods_of_sharing_experience": {
+      "knowledge_sharing_platforms": [
+        {
+          "platform": "Blog Articles",
+          "nuance": "Partager des récits personnels pour inspirer et éduquer une audience plus large."
+        },
+        {
+          "platform": "Conferences",
+          "nuance": "Discuter des enjeux locaux et globaux avec des pairs et des experts."
+        },
+        {
+          "platform": "Social Media",
+          "nuance": "Rendre la communication plus accessible tout en gardant un message authentique."
+        },
+        {
+          "platform": "Workshops",
+          "nuance": "Former de manière pratique et directe, avec une approche interactive."
+        }
+      ],
+      "audiences": [
+        "New Entrepreneurs",
+        "Local Business Owners",
+        "Young Innovators"
+      ]
+    },
+    "narrative_axes": {
+      "step_1": {
+        "description": "Choisir un axe narratif",
+        "options": {
+          "axe_1": {
+            "title": "La dialectique de l’innovation et de la tradition",
+            "summary": "Juliana vit dans un environnement rural en mutation, où il cherche à introduire des idées modernes tout en étant confronté à la résistance des structures et des mentalités traditionnelles.",
+            "tension_tactic": "Chaque nouvelle avancée ou initiative innovante est confrontée à un obstacle ancré dans la tradition.",
+            "subtle_revelation": "À chaque étape de l’innovation, une nouvelle couche de résistance ou d’acceptation apparaît, créant des micro-révolutions dans la perception du personnage."
+          },
+          "axe_2": {
+            "title": "L’artiste et l’entrepreneur : un conflit d’identité",
+            "summary": "Le personnage principal, partagé entre son rôle d’artiste et celui d’entrepreneur, tente de définir une identité qui ne correspond ni aux attentes du marché ni à celles du monde artistique.",
+            "internal_conflict": "Le personnage se demande constamment s’il peut réussir dans le monde de l’entrepreneuriat sans renier son âme d’artiste.",
+            "subtle_revelation": "Petites victoires ou échecs dévoilent la complexité du combat intérieur du personnage pour rester fidèle à lui-même."
+          }
+        }
+      }
+    }
+  }

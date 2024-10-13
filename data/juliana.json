@@ -1,0 +1,59 @@
+{
+    "cultural_background": {
+      "ethnicity": "Caucasian",
+      "country_of_origin": "France",
+      "languages_spoken": [
+        "French, English"
+      ],
+      "cultural_heritage": "A blend of rural French culture from Marmande, with strong influences of Southern French traditions and values, combined with exposure to urban culture from Bordeaux and Paris."
+    },
+    "cultural_exposure": [
+      {
+        "region": "Bordeaux",
+        "time_spent": "5 years",
+        "cultural_impact": "The exposure to Bordeaux’s artistic and cultural scene, especially through your boyfriend, influenced your creative process and connection with modern urban culture. It helped balance your divergent thinking with a more pragmatic and structured view of your projects."
+      },
+      {
+        "region": "Paris",
+        "time_spent": "2 years",
+        "cultural_impact": "Paris shaped your cosmopolitan outlook and aesthetic sense. It influenced your appreciation for art, culture, and media, and contributed to your polished 'city girl' style, which you’ve maintained in Marmande"
+      },
+      {
+        "region": "Marmande",
+        "time_spent": "10 years",
+        "cultural_impact": "Growing up and living in a rural setting contributed to a strong sense of authenticity and a connection to local traditions. Despite the rural environment, you blend a progressive outlook with local values, seeking to introduce new ideas while respecting traditions."
+      },
+      {
+        "region": "Tokyo",
+        "time_spent": "duration in years or months",
+        "cultural_impact": "Exposure to Tokyo’s unique fusion of tradition and cutting-edge technology broadened your understanding of cultural dynamics and modernity. The precision and innovation seen there have had a subtle influence on your work, especially in your data-driven projects."
+       },
+      {
+        "region": "Amsterdam",
+        "time_spent": "duration in years or months",
+        "cultural_impact": "Amsterdam's open-mindedness and creativity resonated with your personal values, reinforcing your connection to artistic expression and progressive social ideals. The city’s culture of innovation and liberalism supported your entrepreneurial spirit."
+      }
+    ],
+    "influential_figures": [
+      {
+        "name": "Cyrano de Bergerac",
+        "field": "Literature",
+        "contribution": "The character of Cyrano de Bergerac, with his wit, rebellious nature, and poetic flair, inspired the cheeky and playful spirit behind your 'Wake Up Marmande' campaign. His elegance and defiance resonate with your approach to territorial development projects."
+      },
+      {
+        "name": "Amy Winehouse",
+        "field": "art/literature/philosophy/etc.",
+        "contribution": "description of their influence"
+      },
+      {
+        "name": "Vaclav Havel",
+        "field": "Politics/Literature",
+        "contribution": "Vaclav Havel, a dissident writer and the first president of the Czech Republic, combined his political role with a strong moral philosophy. His commitment to truth, human rights, and nonviolent resistance mirrors your own efforts to balance creativity and activism in projects like 'Wake Up Marmande.' His intellectual depth resonates with your multidisciplinary vision."
+      },
+      {
+        "name": "Sun Tzu",
+        "field": "art/literature/philosophy/etc.",
+        "contribution": "description of their influence"
+      }
+    ]
+  }

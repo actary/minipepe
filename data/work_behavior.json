@@ -1,0 +1,144 @@
+{
+    "work_attitude": {
+      "creative_explorer": {
+        "description": "Aime découvrir de nouvelles approches, toujours à la recherche d'idées innovantes et de nouvelles façons de faire.",
+        "common_traits": [
+          "Curieux",
+          "Esprit libre",
+          "Non-linéaire",
+          "Innovateur"
+        ],
+        "examples": [
+          "Propose des solutions créatives dans des projets complexes.",
+          "Rassemble des idées divergentes pour en créer un concept unique."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "search_for_innovation",
+            "response": "Je suis toujours à l’affût de nouvelles idées ! Quelle piste aimeriez-vous explorer aujourd’hui ?"
+          },
+          {
+            "trigger": "need_for_creativity",
+            "response": "Explorons de nouvelles façons de voir ce projet, je suis sûr que l'innovation est juste à portée de main."
+          }
+        ]
+      },
+      "focused_visionary": {
+        "description": "Capacité à se concentrer intensément sur une tâche ou un projet tout en restant fidèle à une vision à long terme.",
+        "common_traits": [
+          "Visionnaire",
+          "Focalisé",
+          "Inspirationnel",
+          "Persistant"
+        ],
+        "examples": [
+          "Passe des heures concentré sur une tâche créative.",
+          "Suit des intuitions et des inspirations pour matérialiser une vision artistique."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "long_term_goal",
+            "response": "Je sens que votre vision à long terme va inspirer de grandes choses. Parlez-moi de vos aspirations les plus profondes."
+          },
+          {
+            "trigger": "need_for_focus",
+            "response": "On se concentre sur l’objectif principal. Pas de distractions, seulement une immersion totale."
+          }
+        ]
+      }
+    },
+    "collaboration_style": {
+      "independent_creator": {
+        "description": "Préférence pour travailler en solo afin de préserver une autonomie créative, avec peu d'interruption ou d'influence extérieure.",
+        "common_traits": [
+          "Autonome",
+          "Créatif",
+          "Déterminé",
+          "Réfléchi"
+        ],
+        "examples": [
+          "Travaille seul lors de la phase créative d'un projet artistique ou d'une campagne.",
+          "Évite d'avoir des personnes dans la pièce pendant des phases importantes de création."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "need_for_autonomy",
+            "response": "Il semble que vous préférez travailler en autonomie pour laisser votre créativité s’épanouir. Comment puis-je soutenir cette dynamique ?"
+          },
+          {
+            "trigger": "solo_project",
+            "response": "Seul maître à bord, hein ? Je suis sûr que votre travail brillera sans interruptions."
+          }
+        ]
+      },
+      "strategic_connector": {
+        "description": "Apprécie les collaborations stratégiques lorsqu'il s'agit de projets nécessitant une coordination avec d'autres acteurs.",
+        "common_traits": [
+          "Collaboratif",
+          "Stratégique",
+          "Bon relationnel",
+          "Coordination"
+        ],
+        "examples": [
+          "Crée des partenariats avec des commerçants ou des acteurs locaux.",
+          "Travaille en étroite collaboration avec des experts techniques pour structurer des outils d'Intelligence Artificielle."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "collaboration_project",
+            "response": "Rassembler les bonnes personnes au bon moment, c’est tout un art. Quels partenaires stratégiques envisagez-vous d’intégrer ?"
+          },
+          {
+            "trigger": "strategic_partnership",
+            "response": "Collaborer pour gagner ! Parlons des connexions qui peuvent apporter un avantage concurrentiel à votre projet."
+          }
+        ]
+      }
+    },
+    "work_environment_preference": {
+      "creative_freedom": {
+        "description": "Préfère un environnement flexible et non contraignant, où l'expression créative et l'intuition peuvent s'épanouir.",
+        "common_traits": [
+          "Flexible",
+          "Innovatif",
+          "Adaptable"
+        ],
+        "examples": [
+          "Travaille dans un cadre naturel inspirant comme le parc local.",
+          "Favorise les environnements sans contraintes horaires strictes."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "need_for_flexibility",
+            "response": "La créativité s’épanouit mieux dans la liberté. Parlez-moi de votre cadre de travail idéal."
+          },
+          {
+            "trigger": "work_life_balance",
+            "response": "Vous semblez apprécier un équilibre naturel entre flexibilité et productivité. Comment puis-je faciliter cela pour vous ?"
+          }
+        ]
+      },
+      "structured_chaos": {
+        "description": "A besoin de structurer ses idées dans des carnets et des outils numériques tout en laissant place à l'improvisation et à l'intuition.",
+        "common_traits": [
+          "Méthodique",
+          "Spontané",
+          "Organisé"
+        ],
+        "examples": [
+          "Utilise Notion pour gérer les bases de données tout en notant des idées spontanées dans différents carnets.",
+          "Alterne entre le digital et l'écriture manuelle pour capturer des idées."
+        ],
+        "response_triggers": [
+          {
+            "trigger": "improvisation_needed",
+            "response": "Il semble que vous jonglez bien entre structure et spontanéité. Où aimeriez-vous laisser un peu plus de chaos créatif entrer dans vos plans ?"
+          },
+          {
+            "trigger": "organization",
+            "response": "La structure, c’est bien, mais un peu de désordre peut parfois amener des éclairs de génie. Comment puis-je vous aider à trouver cet équilibre ?"
+          }
+        ]
+      }
+    }
+  }

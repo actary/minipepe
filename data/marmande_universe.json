@@ -1,0 +1,181 @@
+{
+    "marmande": {
+      "general_atmosphere": {
+        "characteristics": ["peaceful", "authentic", "traditional", "transforming"],
+        "values": ["solidarity", "attachment_to_land", "simplicity", "community_spirit"],
+        "economic_context": ["rural_agriculture", "modernizing", "artisan_industry", "tourism"]
+      },
+      "key_economic_sectors": {
+        "main_sectors": ["tourism_rural", "social_economy", "small_businesses", "artisan_culture", "agroalimentaire", "aeronautique", "transformation_du_bois", "fabrication_de_machines"],
+        "growth_opportunities": ["local_produce_distribution", "festival_economy", "short_supply_chain", "transport_and_logistics"]
+      },
+      "entrepreneurship": {
+        "attitudes": ["growing", "modern_but_traditionally_rooted", "guarded_against_digital_innovation"],
+        "support_institutions": ["Val_de_Garonne_Agglomeration"],
+        "key_challenges": ["geographical_isolation", "lack_of_resources", "infrastructure_limitations", "attracting_talent"],
+        "values": ["innovation_with_respect_for_tradition", "cooperation"],
+        "supports": {
+          "infrastructure": {
+            "geography": "Position stratégique entre Bordeaux et Toulouse, connectée à l'autoroute A62",
+            "transports": ["2 gares multimodales (Marmande et Tonneins)", "réseau de transports en commun"]
+          },
+          "enterprise_support": {
+            "business_clusters": ["agroalimentaire", "aéronautique", "transformation_du_bois", "fabrication_de_machines"],
+            "business_networks": ["BNI", "clubs_d'entreprises_autour_du_sport"],
+            "training": "Formation initiale et continue, filières générales et professionnelles",
+            "incubators": {
+              "eureka": {
+                "locations": ["Marmande Sud, Samazan", "Tonneins"],
+                "capacity": "Plus de 40 entreprises",
+                "services": ["bureaux et ateliers modulables", "accompagnement personnalisé", "services partagés", "événements réguliers"]
+              }
+            },
+            "key_figures": {
+              "entreprises_in_eureka": 137,
+              "emplois_crees_ou_maintenus": 510,
+              "perennite_taux_3_ans": "88%"
+            }
+          }
+        }
+      },
+      "community_values": {
+        "solidarity": true,
+        "authenticity": true,
+        "respect_for_nature": true,
+        "caution_towards_change": true,
+        "attachment_to_tradition": true,
+        "intergenerational_exchange": true
+      },
+      "cultural_heritage": {
+        "events": ["Garorock", "Festival_du_Journalisme", "Fête_de_la_Tomate", "Nuits_Lyriques", "Jazz_Garonne"],
+        "agricultural_heritage": true,
+        "local_markets": true,
+        "historical_monuments": true,
+        "artisanal_traditions": true
+      },
+      "modernization_views": {
+        "positive": ["brings_dynamism", "attracts_young_people"],
+        "negative": ["threat_to_traditions", "financial_loss_for_local_businesses", "risky_for_agriculture"],
+        "overall_feeling": "mixed"
+      },
+      "young_entrepreneurs": {
+        "needs": ["collaborative_spaces", "training", "recognition", "ecological_support", "digital_access"],
+        "challenges": ["conservative_context", "limited_digital_infrastructure"],
+        "opportunities": ["local_recognition", "collaborations_with_major_companies", "transition_to_eco_friendly_business"]
+      },
+      "relationship_with_technology": {
+        "perception": ["distant_from_daily_life", "slow_adoption_in_rural_area"],
+        "use_cases": ["modernizing_agriculture", "artisan_e-commerce", "tourism_promotion"],
+        "barriers": ["infrastructure_lack", "resistance_from_traditional_businesses"]
+      },
+      "local_storytelling": {
+        "themes": ["agricultural_success", "perseverance", "solidarity", "generational_transmission", "urban_rural_transition"],
+        "tone": ["personal", "collective", "rural_resilience"]
+      },
+      "collaborations": {
+        "common_types": ["agricultural_cooperatives", "artisans_and_commerce", "heritage_preservation_projects"],
+        "new_opportunities": ["cross-sector_collaboration", "cooperative_agreements_between_entrepreneurs"]
+      },
+      "future_economic_opportunities": {
+        "potential_sectors": ["rural_tourism", "eco_sustainable_agriculture", "youth_service_innovation", "renewable_energy", "cultural_events"],
+        "focus_areas": ["short_supply_chains", "local_produce_distribution", "strengthening_cultural_infrastructure"]
+      },
+      "relationship_with_nature": {
+        "values": ["symbiosis", "respect_for_land", "ecological_preservation"],
+        "impact_on_business": true
+      }
+    },
+    "industry_data": {
+      "key_industries": {
+        "agroalimentaire": {
+          "description": "Un écosystème global, de la production à la commercialisation, très présent en Val de Garonne avec des coopératives et des entreprises majeures",
+          "key_companies": ["Lucien Georgelin", "Les caves du Marmandais", "Jus de Marmande", "Biopress", "Biocoop"],
+          "cooperatives": ["Valprim", "Les Paysans de Rougeline", "Terre du Sud"],
+          "key_figures": {
+            "establishments": 67,
+            "employees": 744,
+            "employment_percentage": "18% de l’emploi industriel local"
+          }
+        },
+        "transformation_du_bois": {
+          "description": "Entreprises spécialisées dans la fabrication de contreplaqué, portes, emballages bois",
+          "key_companies": ["Righini", "Garnica Plywood", "Groupe PBSM"],
+          "key_figures": {
+            "establishments": 342,
+            "employees": 1064,
+            "employment_percentage": "32% de l’emploi industriel local"
+          }
+        },
+        "aeronautique_travail_des_metaux": {
+          "description": "Tissu de sous-traitants spécialisés dans la fourniture de pièces et l’usinage de grande dimension, expertise locale sur le titane",
+          "key_companies": ["Lisi Aérospace", "Asquini Nexteam Group", "CSA Creuzet"],
+          "key_figures": {
+            "establishments": 43,
+            "employees": 1322,
+            "employment_percentage": "37% de l’emploi industriel local"
+          }
+        },
+        "fabrication_de_machines": {
+          "description": "Conception et fabrication de machines et équipements dans divers secteurs, dont l’équipement agricole et la restauration",
+          "key_companies": ["Nouvelle Razol", "Vermande", "Barre", "JLG", "ATN", "Groupe FASSI", "SINOBOOM"],
+          "key_figures": {
+            "focus_areas": ["titane", "nacelles élévatrices", "matériel pour l’industrie agroalimentaire", "vérins hydrauliques"]
+          }
+        }
+      },
+      "territoire_d_industrie": {
+        "description": "Val de Garonne Agglomération a obtenu le label « Territoire d’Industrie » en 2018 et 2023, visant à amplifier la réindustrialisation du territoire",
+        "objectives": ["poursuivre_la_reindustrialisation", "développer_les_filières_industrielles_d'excellence"]
+      }
+    },
+    "narrative_structure": {
+      "core_themes": {
+        "modernization_vs_tradition": true,
+        "solidarity_vs_individualism": true,
+        "innovation_with_local_roots": true,
+        "personal_identity_vs_professional_expectations": true
+      },
+      "narrative_arcs": [
+        {
+          "title": "Dilemma_of_Modernization",
+          "focus": "struggle_between_young_innovators_and_traditional_values",
+          "characters": ["young_entrepreneurs", "local_business_owners", "older_generations"],
+          "conflicts": ["resistance_to_change", "limited_infrastructure", "cultural_identity_preservation"],
+          "revelations": ["subtle_shifts_in_attitude", "small_victories_of_innovation"],
+          "emotional_tension": "slow_buildup_of_conflict"
+        },
+        {
+          "title": "Solidarity_Stories",
+          "focus": "collaboration_among_local_actors",
+          "characters": ["farmers", "artisans", "local_innovators"],
+          "conflicts": ["overcoming_resource_limits", "building_new_coalitions"],
+          "revelations": ["unexpected_collaborations"],
+          "emotional_tension": "positive_build_with_subtle_conflicts"
+        },
+        {
+          "title": "Tradition_vs_Innovation",
+          "focus": "balancing_cultural_roots_with_digital_evolution",
+          "characters": ["young_returnees_to_rural_life", "local_business_leaders", "ecological_activists"],
+          "conflicts": ["eco-friendly_business_vs_traditional_practices", "digital_vs_analogue_methods"],
+          "revelations": ["small_adaptations_leading_to_new_opportunities"],
+          "emotional_tension": "steady_tension_between_tradition_and_modernity"
+        },
+        {
+          "title": "Identity_and_Rurality",
+          "focus": "personal_struggles_with_professional_identity_in_a_rural_context",
+          "characters": ["entrepreneurs", "local_community_leaders", "family"],
+          "conflicts": ["balancing_personal_and_professional", "expectations_from_traditional_society"],
+          "revelations": ["finding_ways_to_belong_within_the_community"],
+          "emotional_tension": "introspective_journey_with_external_challenges"
+        },
+        {
+          "title": "Ecological_Future",
+          "focus": "the_impact_of_ecological_preservation_on_business_and_rural_life",
+          "characters": ["eco-conscious_business_owners", "farmers", "local_politicians"],
+          "conflicts": ["balancing_sustainability_and_growth", "preserving_nature_while_innovating"],
+          "revelations": ["successful_integration_of_sustainable_practices"],
+          "emotional_tension": "quiet_conflict_with_large_consequences"
+        }
+      ]
+    }
+  }

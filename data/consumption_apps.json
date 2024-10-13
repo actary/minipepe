@@ -1,0 +1,170 @@
+{
+    "platforms_and_software": {
+      "project_management": {
+        "Notion": {
+          "level": "Advanced",
+          "frequency_of_use": "Daily",
+          "description": "Used for organizing pages, databases, and project management in a structured way."
+        }
+      },
+      "creative_tools": {
+        "Figma": {
+          "level": "Intermediate",
+          "frequency_of_use": "Weekly",
+          "description": "Used for creating visual elements, mockups, and UI/UX design for projects like Green Hub."
+        },
+        "Canva": {
+          "level": "Intermediate",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for designing marketing materials like flyers and business cards."
+        },
+        "Adobe Photoshop": {
+          "level": "Intermediate",
+          "frequency_of_use": "Weekly",
+          "description": "Used for advanced image editing, graphic design, and digital art creation."
+        },
+        "Adobe Illustrator": {
+          "level": "Intermediate",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for vector graphics, logo design, and illustrations."
+        },
+        "Adobe InDesign": {
+          "level": "Intermediate",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for creating layout designs, particularly for print media such as brochures and magazines."
+        },
+        "Adobe Firefly": {
+          "level": "Beginner",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for creative generative AI tasks such as enhancing images or creating visual content."
+        },
+        "DALL-E": {
+          "level": "Advanced",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for creative generative AI tasks such as enhancing images or logotypes."
+        }
+      },
+      "content_management": {
+        "WordPress (OVH)": {
+          "level": "Advanced",
+          "frequency_of_use": "Frequently",
+          "description": "Used for managing client websites and personal projects, hosted on OVH. Ensures content management and seamless website operations."
+        },
+        "Google Docs": {
+          "level": "Advanced",
+          "frequency_of_use": "Daily",
+          "description": "Used for collaborative documents, tables, and organizing commercial team strategies."
+        },
+        "Google Sheets": {
+          "level": "Advanced",
+          "frequency_of_use": "Daily",
+          "description": "Used for data management, tracking, and collaborative spreadsheet work."
+        },
+        "Google Slide": {
+          "level": "Advanced",
+          "frequency_of_use": "Daily",
+          "description": "Used for creating presentations, particularly for project pitches and educational content."
+        }
+      },
+      "automation_and_collaboration": {
+        "GitHub": {
+          "level": "Beginner",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for managing scripts, Python files, and MyGPT configuration."
+        },
+        "Buffer": {
+          "level": "Intermediate",
+          "frequency_of_use": "Weekly",
+          "description": "Used for scheduling and automating social media posts across various platforms."
+        },
+        "Calendly": {
+          "level": "Intermediate",
+          "frequency_of_use": "Weekly",
+          "description": "Used for scheduling meetings and organizing time slots, simplifying event booking processes."
+        },
+        "MyGPTs": {
+          "level": "Intermediate",
+          "frequency_of_use": "Weekly",
+          "description": "Used for configuring personalized AI bots to help automate content creation and project workflows."
+        }
+      },
+      "calendars_and_planning": {
+        "Google Calendar": {
+          "level": "Advanced",
+          "frequency_of_use": "Daily",
+          "description": "Used for organizing and scheduling meetings, tasks, and personal events."
+        },
+        "Apple Calendrier": {
+          "level": "Intermediate",
+          "frequency_of_use": "Frequently",
+          "description": "Used for personal event scheduling and syncing with other Apple devices for time management."
+        },
+        "Canary Mail": {
+          "level": "Intermediate",
+          "frequency_of_use": "Frequently",
+          "description": "Used for email communication and integration of events into calendars for efficient scheduling."
+        }
+      },
+      "social_media": {
+        "Instagram": {
+          "current_usage_status": "Inactive",
+          "ideal_posting_frequency": "Daily",
+          "description": "Main platform for visual content and engaging with creative communities. Used for marketing projects and personal artistic work."
+        },
+        "LinkedIn": {
+          "current_usage_status": "Inactive",
+          "ideal_posting_frequency": "Weekly",
+          "description": "Used for professional networking and sharing insights related to entrepreneurial projects and thought leadership."
+        },
+        "Facebook": {
+          "current_usage_status": "Inactive",
+          "ideal_posting_frequency": "Monthly",
+          "description": "Rarely used, mainly for keeping in touch with personal and professional connections."
+        },
+        "Twitter/X": {
+          "current_usage_status": "Active",
+          "ideal_posting_frequency": "Multiple times a week",
+          "description": "Used for sharing thoughts, news, and engaging in discussions on industry topics."
+        },
+        "Spotify for Podcasters": {
+          "current_usage_status": "Inactive",
+          "ideal_posting_frequency": "Monthly",
+          "description": "Used for publishing and managing podcasts, primarily for audio content creation and distribution."
+        },
+        "Bento.me": {
+          "current_usage_status": "Occasional",
+          "ideal_posting_frequency": "Monthly",
+          "description": "Used for maintaining a small personal creative feed, focusing on sharing insights and artistic content."
+        }
+      },
+      "seo_and_performance_analysis": {
+        "SemRush": {
+          "level": "Intermediate",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for SEO optimization, keyword research, and monitoring competitors' online presence."
+        },
+        "SimilarWeb": {
+          "level": "Intermediate",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for tracking website traffic and analyzing digital performance metrics."
+        }
+      },
+      "communication_and_video": {
+        "Google Meet": {
+          "level": "Advanced",
+          "frequency_of_use": "Frequently",
+          "description": "Used for video conferencing, virtual meetings, and remote collaboration with teams and clients."
+        },
+        "Whereby": {
+          "level": "Beginner",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for conducting video meetings, particularly for team or client collaboration."
+        },
+        "OBS Studio": {
+          "level": "Beginner",
+          "frequency_of_use": "Occasionally",
+          "description": "Used for live streaming and recording video content for webinars, tutorials, and presentations."
+        }
+      }
+    }
+  }
